@@ -1,5 +1,6 @@
 👋 Hi, I’m @ShrajanKumar
-         One word about me : Curious
+
+ One word Introduction: Curious
 
 👀 I’m interested in Linearalgebra,Statistics,Datascience and Machine Learning 
 
