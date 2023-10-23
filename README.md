@@ -4,7 +4,7 @@
 
 👀 I’m interested in Linearalgebra,Statistics,Datascience and Machine Learning 
 
-🌱 I’m currently learning ...Msc in Statistics
+🌱 Ihave completed Msc in Statistics and 
 - 💞️ I’m looking for freshers role or internship in the field of machine learning
 - 📫 How to reach me :  shrajankumar45@gmail.com
 - Linked in :  https://www.linkedin.com/in/shrajan-kumar-90930b260
