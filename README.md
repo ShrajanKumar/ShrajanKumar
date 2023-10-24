@@ -2,7 +2,7 @@
 
  One word Introduction: Curious
 
-👀 I’m interested in Linearalgebra,Statistics,Datascience and Machine Learning 
+👀 I’m interested in Statistics,Datascience , Machine Learning  and Linearalgebra
 
 🌱 Ihave completed Msc in Statistics and 
 - 💞️ I’m looking for freshers role or internship in the field of machine learning
